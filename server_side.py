@@ -1,7 +1,5 @@
 import socket
 import cv2
-from tkinter import *
-
 
 
 def display_image():
